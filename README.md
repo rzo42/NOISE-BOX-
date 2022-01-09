@@ -1,9 +1,3 @@
-# NOISE-BOX-
-Arduino Uno Granular random tone generator (noise generator) 
-
-1 lines (98 sloc)  4.63 KB
-   
-//========================================================================
 //  PROJECT:NOISE BOX
 
 //  AURTHOR:RYAN LISTON
